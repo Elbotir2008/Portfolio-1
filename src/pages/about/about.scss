@@ -1,0 +1,83 @@
+.about-section {
+  widows: 100%;
+  padding: 9rem;
+  h3 {
+    text-align: center;
+    color: #fff;
+    margin-bottom: 10rem;
+    font-size: 1.3rem;
+  }
+  .blog {
+    padding: 2rem;
+    margin-left: -6rem;
+    .myImages {
+      position: absolute;
+      margin: -10rem 13rem;
+      .grad {
+        margin-left: -2rem;
+        width: 35rem;
+        position: absolute;
+      }
+      .me {
+        width: 25rem;
+        position: absolute;
+        margin-left: 3rem;
+        margin-top: 7rem;
+      }
+    }
+    .blog-text {
+      margin-left: 50rem;
+      h4 {
+        font-size: 1.5rem;
+        text-decoration: underline;
+        color: #fff;
+      }
+      h1 {
+        display: inline-block;
+        width: 35rem;
+        font-size: 4rem;
+        color: #fff;
+        img {
+          width: 15rem;
+          position: absolute;
+          left: 55.8%;
+          top: 59%;
+        }
+        span {
+          margin-left: 1rem;
+        }
+        b {
+          position: absolute;
+          margin-left: 1rem;
+        }
+      }
+      p {
+        font-size: 1.3rem;
+        color: #fff;
+      }
+    }
+  }
+  .about-bottom {
+    margin-left: 14rem;
+    margin-top: 15rem;
+    color: #fff;
+    h1 {
+      font-size: 4rem;
+    }
+    h5 {
+      font-size: 1.3rem;
+      b {
+        img {
+          margin-bottom: -0.5rem;
+          margin-left: 0.5rem;
+        }
+        color: #1877f2;
+      }
+    }
+    p {
+      width: 65rem;
+      font-size: 1.4rem;
+      margin-top: 5rem;
+    }
+  }
+}

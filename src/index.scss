@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Preahvihear&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+  font-family: "Preahvihear", sans-serif;
+  outline: none;
+  overflow-x: hidden;
+}
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+li {
+  list-style: none;
+}
+span {
+  display: inline-block;
+  color: #9857d3;
+}
+a {
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+button {
+  cursor: pointer;
+}
+.flex-class {
+  display: flex;
+}
+.grid-class {
+  display: grid;
+}
+main {
+  background-color: #11071f;
+  margin-left: -3rem;
+}
