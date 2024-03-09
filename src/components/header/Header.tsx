@@ -7,13 +7,7 @@ const Header = () => {
           <h1>Asadov Elbotir</h1>
           <ul className="flex-class">
             <li>
-              <a href="#home">Home</a>
-            </li>
-            <li>
-              <a href="#about">About</a>
-            </li>
-            <li>
-              <a href="">Resume</a>
+              <a href="./Asadov Elbotir.pdf">Resume</a>
             </li>
           </ul>
         </nav>

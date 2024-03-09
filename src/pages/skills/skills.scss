@@ -38,3 +38,17 @@
     }
   }
 }
+
+@media (max-width: 480px) {
+  .skills-section {
+    h1 {
+      margin-left: 0 !important;
+      font-size: 1.5rem;
+      width: 34rem;
+    }
+    .skills-cards {
+      margin-left: -15.5rem !important;
+      grid-template-columns: auto auto;
+    }
+  }
+}

@@ -81,3 +81,28 @@
     }
   }
 }
+
+@media (max-width: 480px) {
+  .blog {
+    flex-direction: column;
+    .myImages {
+      margin-left: 0rem !important;
+    }
+    .blog-text {
+      width: 30rem;
+      text-align: center;
+      margin-left: 0 !important;
+      margin-top: 25rem;
+    }
+  }
+  .about-bottom {
+    width: 23rem;
+    margin-left: 0 !important;
+    text-align: center;
+    p {
+      margin-top: 1rem !important;
+      margin-left: -6rem;
+      width: 35rem !important;
+    }
+  }
+}

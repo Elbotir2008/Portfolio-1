@@ -21,3 +21,16 @@
     margin-top: 2rem;
   }
 }
+
+
+@media (max-width: 480px) {
+  .contact-section {
+    text-align: center;
+    width: 45rem;
+    margin-left: 0 !important;
+    p {
+      margin-left: 3.5rem;
+      width: 34rem;
+    }
+  }
+}

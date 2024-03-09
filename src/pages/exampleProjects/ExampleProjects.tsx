@@ -16,8 +16,8 @@ const ExampleProjects = () => {
             </p>
             <div className="flex-class">
               <a href="http://yakuniy-imtihon-forntend.vercel.app">
-                <img src="./icon-park-solid_click.svg" alt="Eror" />
-                <img src="./icon-park-solid_click.svg" alt="Eror" />
+                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
+                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
               </a>
             </div>
           </div>
@@ -48,8 +48,8 @@ const ExampleProjects = () => {
             </p>
             <div className="flex-class">
               <a href="https://hackaton-anti-coruption-project.vercel.app/">
-                <img src="./icon-park-solid_click.svg" alt="Eror" />
-                <img src="./icon-park-solid_click.svg" alt="Eror" />
+                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
+                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
               </a>
             </div>
           </div>
@@ -69,8 +69,8 @@ const ExampleProjects = () => {
             </p>
             <div className="flex-class">
               <a href="https://you-tube-clone-2gz1.vercel.app">
-                <img src="./icon-park-solid_click.svg" alt="Eror" />
-                <img src="./icon-park-solid_click.svg" alt="Eror" />
+                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
+                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
               </a>
             </div>
           </div>
@@ -99,8 +99,8 @@ const ExampleProjects = () => {
             </p>
             <div className="flex-class">
               <a href="http://githubfinder-snd.netlify.app">
-                <img src="./icon-park-solid_click.svg" alt="Eror" />
-                <img src="./icon-park-solid_click.svg" alt="Eror" />
+                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
+                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
               </a>
             </div>
           </div>
@@ -119,8 +119,8 @@ const ExampleProjects = () => {
             </p>
             <div className="flex-class">
               <a href="https://piano-game-pi.vercel.app">
-                <img src="./icon-park-solid_click.svg" alt="Eror" />
-                <img src="./icon-park-solid_click.svg" alt="Eror" />
+                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
+                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
               </a>
             </div>
           </div>
@@ -149,8 +149,8 @@ const ExampleProjects = () => {
             </p>
             <div className="flex-class">
               <a href="https://lasles-vpn-figma-chi.vercel.app/">
-                <img src="./icon-park-solid_click.svg" alt="Eror" />
-                <img src="./icon-park-solid_click.svg" alt="Eror" />
+                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
+                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
               </a>
             </div>
           </div>

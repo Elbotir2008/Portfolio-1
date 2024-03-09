@@ -28,3 +28,11 @@ header {
     }
   }
 }
+
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.7rem !important;
+    margin-left: -0.7rem !important;
+  }
+}

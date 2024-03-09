@@ -73,3 +73,32 @@
     }
   }
 }
+
+@media (max-width: 480px) {
+  .projects-section {
+    width: 50rem;
+    text-align: center;
+    margin-left: 0 !important;
+    .project1 {
+      flex-direction: column;
+      .project1-texts {
+        width: 38rem;
+        margin-left: 0rem !important;
+        p {
+          margin-left: 1rem;
+          width: 35rem;
+        }
+        .park {
+          display: none;
+        }
+      }
+      .project1-img {
+        img {
+          margin-left: -6rem;
+          height: 20rem !important;
+          width: 35rem !important;
+        }
+      }
+    }
+  }
+}
