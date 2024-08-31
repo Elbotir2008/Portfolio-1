@@ -21,17 +21,17 @@ const About = () => {
           </div>
         </div>
         <div className="about-bottom">
-          <h1>I'm a Frontend Developer.| </h1>
+          <h1>I'm a Frontend Developer. </h1>
           <h5>
             Currently, I'm a Frontend Developer at{" "}
             <b>
-              <img src="./facebook.svg" alt="Eror" /> Facebook
+                MOON UP company
             </b>
             ,
           </h5>
           <p>
             I am a frontend junior developer. I am a graduate of Na’jot Ta’lim.
-            I will make your work successful. I am 15 years old. I also have
+            I will make your work successful. I am 17 years old. I also have
             sites that have made me quite a lot. If you choose me, you will not
             be wrong.
           </p>

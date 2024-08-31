@@ -4,6 +4,40 @@ const ExampleProjects = () => {
     <section className="projects-section">
       <div className="container">
         <div className="project1 flex-class">
+          <div className="project1-img">
+            <a href="https://onlineandoza.uz/">
+              <img src="./onlineandoza.png" alt="Eror" />
+            </a>
+          </div>
+          <div className="project1-texts project2-texts">
+            <span>Featured Project</span>
+            <h2>Online Andoza</h2>
+            <div className="blur-card"></div>
+            <p>
+              This website is hosted on a server and is about online clothing
+              styles. Here you will be able to filter clothes, search and access
+              exactly one clothes. There are also parts for changing darkmode
+              and languages. This is done for the convenience of the client.
+              Motto: Fast, Convenient and Reliable.
+            </p>
+            <div className="flex-class">
+              <a href="https://onlineandoza.uz/">
+                <img
+                  src="./icon-park-solid_click.svg"
+                  className="park"
+                  alt="Eror"
+                />
+                <img
+                  src="./icon-park-solid_click.svg"
+                  className="park"
+                  alt="Eror"
+                />
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div className="project1 flex-class">
           <div className="project1-texts">
             <span>Featured Project</span>
             <h2>Eatly Project</h2>
@@ -16,8 +50,16 @@ const ExampleProjects = () => {
             </p>
             <div className="flex-class">
               <a href="http://yakuniy-imtihon-forntend.vercel.app">
-                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
-                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
+                <img
+                  src="./icon-park-solid_click.svg"
+                  className="park"
+                  alt="Eror"
+                />
+                <img
+                  src="./icon-park-solid_click.svg"
+                  className="park"
+                  alt="Eror"
+                />
               </a>
             </div>
           </div>
@@ -48,8 +90,16 @@ const ExampleProjects = () => {
             </p>
             <div className="flex-class">
               <a href="https://hackaton-anti-coruption-project.vercel.app/">
-                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
-                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
+                <img
+                  src="./icon-park-solid_click.svg"
+                  className="park"
+                  alt="Eror"
+                />
+                <img
+                  src="./icon-park-solid_click.svg"
+                  className="park"
+                  alt="Eror"
+                />
               </a>
             </div>
           </div>
@@ -69,8 +119,16 @@ const ExampleProjects = () => {
             </p>
             <div className="flex-class">
               <a href="https://you-tube-clone-2gz1.vercel.app">
-                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
-                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
+                <img
+                  src="./icon-park-solid_click.svg"
+                  className="park"
+                  alt="Eror"
+                />
+                <img
+                  src="./icon-park-solid_click.svg"
+                  className="park"
+                  alt="Eror"
+                />
               </a>
             </div>
           </div>
@@ -99,8 +157,16 @@ const ExampleProjects = () => {
             </p>
             <div className="flex-class">
               <a href="http://githubfinder-snd.netlify.app">
-                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
-                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
+                <img
+                  src="./icon-park-solid_click.svg"
+                  className="park"
+                  alt="Eror"
+                />
+                <img
+                  src="./icon-park-solid_click.svg"
+                  className="park"
+                  alt="Eror"
+                />
               </a>
             </div>
           </div>
@@ -119,8 +185,16 @@ const ExampleProjects = () => {
             </p>
             <div className="flex-class">
               <a href="https://piano-game-pi.vercel.app">
-                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
-                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
+                <img
+                  src="./icon-park-solid_click.svg"
+                  className="park"
+                  alt="Eror"
+                />
+                <img
+                  src="./icon-park-solid_click.svg"
+                  className="park"
+                  alt="Eror"
+                />
               </a>
             </div>
           </div>
@@ -128,31 +202,6 @@ const ExampleProjects = () => {
             <a href="https://piano-game-pi.vercel.app">
               <img src="./5.png" alt="Eror" />
             </a>
-          </div>
-        </div>
-
-        <div className="project1 flex-class">
-          <div className="project1-img">
-            <a href="https://lasles-vpn-figma-chi.vercel.app">
-              <img src="./6.png" alt="Eror" />
-            </a>
-          </div>
-          <div className="project1-texts project2-texts">
-            <span>Featured Project</span>
-            <h2>LaslesVPN</h2>
-            <div className="blur-card"></div>
-            <p>
-              We have advertised a VPN service in this project. The name of this
-              VPN service is called LaslesVPN. This is very convenient if you
-              want to use a VPN. Especially site views and the styles are very
-              nicely done. View and rate. I hope you like it.
-            </p>
-            <div className="flex-class">
-              <a href="https://lasles-vpn-figma-chi.vercel.app/">
-                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
-                <img src="./icon-park-solid_click.svg" className="park" alt="Eror" />
-              </a>
-            </div>
           </div>
         </div>
       </div>
